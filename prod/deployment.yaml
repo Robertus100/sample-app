@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: production-container
-        image: <todo>
+        image: projects/cos-cloud/global/images/cos-105-17412-495-37
         ports:
         - containerPort: 8080
